@@ -6,7 +6,7 @@ https://github.com/ChinmayKaitade/Terminal-Customization-Setup/tree/main/Install
 Step 2 - Now Run Windows Powershell Commands for Powershell Profile From Commands Inside Powershell Commands [PowerShell Commands](
 https://github.com/ChinmayKaitade/Terminal-Customization-Setup/tree/main/PowerShell%20Commands)
 
-Step 3 - Install Fonts and Themes You want to Install [Fonts](https://github.com/ChinmayKaitade/Terminal-Customization-Setup/tree/main/Installation%20of%20Themes%20and%20Fonts)) | [Themes](https://github.com/ChinmayKaitade/Terminal-Customization-Setup/tree/main/Installation%20of%20Themes%20and%20Fonts))
+Step 3 - Install Fonts and Themes You want to Install [Fonts](https://github.com/ChinmayKaitade/Terminal-Customization-Setup/tree/main/Installation%20of%20Themes%20and%20Fonts) | [Themes](https://github.com/ChinmayKaitade/Terminal-Customization-Setup/tree/main/Installation%20of%20Themes%20and%20Fonts)
 
 Step 4 - Installing Icons for Terminal [Icons](https://github.com/ChinmayKaitade/Terminal-Customization-Setup/tree/main/Installation%20Icons)
 
